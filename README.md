@@ -75,8 +75,8 @@ Connect the individual markdown context files to your preferred AI platform:
 
 ## Getting Started
 
-1. Record a voice memo discussing your context (preferences, goals, constraints, etc.)
-2. Use a speech-to-text service to generate a raw transcript
+1. [Record a voice memo](agent-model/context-data/voice-recording.m4a) discussing your context (preferences, goals, constraints, etc.)
+2. Use a speech-to-text service to generate a [raw transcript](agent-model/context-data/raw-transcript.txt)
 3. Apply the transcription cleanup agent to clean the transcript
 4. Run the chunking agent to generate individual context files
 5. Upload the context files to your AI platform of choice
